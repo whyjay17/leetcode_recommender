@@ -4,8 +4,6 @@ from bs4 import BeautifulSoup as bs
 # Import TfIdfVectorizer from scikit-learn
 from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.corpus import stopwords 
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics.pairwise import linear_kernel
 
 # The pages does a POST request for dynamic content. Need to send a MySql query to database
 
