@@ -2,6 +2,8 @@ import requests
 import json
 import csv
 from bs4 import BeautifulSoup as bs
+from nltk.tokenize import sent_tokenize, word_tokenize
+from nltk.corpus import stopwords 
 
 # request question list from the api
 req = requests.get(url='https://leetcode.com/api/problems/algorithms/')
@@ -12,7 +14,10 @@ json_data = json.loads(req.text)
 # get question list 
 questions = json_data['stat_status_pairs']
 
-with open('leetcode_data.csv', 'w', newline='', encoding='UTF-8') as csvfile:
+# stop words
+stop_words = set(stopwords.words('english')) 
+
+with open('leetcode_data_processed.csv', 'w', newline='', encoding='UTF-8') as csvfile:
     writer = csv.writer(csvfile, delimiter=',')
     existing_accounts = []
     
@@ -32,9 +37,12 @@ with open('leetcode_data.csv', 'w', newline='', encoding='UTF-8') as csvfile:
         r = requests.post('https://leetcode.com/graphql', json = data).json()
 
         if r['data']['question']['content']:
-            soup = bs(r['data']['question']['content'], 'lxml')
+            soup = bs(r['data']['question']['content'], 'html')
             title = r['data']['question']['title'] # question name
             content =  soup.get_text().replace('\n',' ') # question content
 
-            writer.writerow([stat['question_id'], title, content, difficulty])
+            tokens = content.split(' ')
+            filtered_sentence = [w for w in tokens if not w in stop_words and w.isalpha()] 
+
+            writer.writerow([stat['question_id'], title, filtered_sentence, difficulty])
         
