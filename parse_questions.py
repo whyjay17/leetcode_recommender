@@ -16,8 +16,13 @@ questions = json_data['stat_status_pairs']
 
 # stop words
 stop_words = set(stopwords.words('english')) 
+# interview stop words
+stop_words.add('example')
+stop_words.add('given')
+stop_words.add('you')
+stop_words.add('there')
 
-with open('leetcode_data_processed_topics.csv', 'w', newline='', encoding='UTF-8') as csvfile:
+with open('leetcode_data_processed_topics2.csv', 'w', newline='', encoding='UTF-8') as csvfile:
     writer = csv.writer(csvfile, delimiter=',')
     existing_accounts = []
     
@@ -44,6 +49,6 @@ with open('leetcode_data_processed_topics.csv', 'w', newline='', encoding='UTF-8
             topic_arr = [item['name'].lower() for item in topics]
             content =  soup.get_text().replace('\n',' ') # question content
             tokens = content.split(' ')
-            filtered_sentence = [w.lower() for w in tokens if not w in stop_words and w.isalpha() and w != 'Example']
+            filtered_sentence = [w.lower() for w in tokens if not w.lower() in stop_words and w.isalpha() and len(w) > 1]
             writer.writerow([stat['question_id'], title, filtered_sentence + topic_arr, difficulty])
         
