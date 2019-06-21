@@ -4,6 +4,7 @@ import csv
 from bs4 import BeautifulSoup as bs
 from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.corpus import stopwords 
+from nltk.corpus import wordnet as wn
 
 # request question list from the api
 req = requests.get(url='https://leetcode.com/api/problems/algorithms/')
@@ -22,7 +23,7 @@ stop_words.add('given')
 stop_words.add('you')
 stop_words.add('there')
 
-with open('leetcode_data_processed_topics2.csv', 'w', newline='', encoding='UTF-8') as csvfile:
+with open('data/leetcode_data_processed_synset2.csv', 'w', newline='', encoding='UTF-8') as csvfile:
     writer = csv.writer(csvfile, delimiter=',')
     existing_accounts = []
     
@@ -50,5 +51,13 @@ with open('leetcode_data_processed_topics2.csv', 'w', newline='', encoding='UTF-
             content =  soup.get_text().replace('\n',' ') # question content
             tokens = content.split(' ')
             filtered_sentence = [w.lower() for w in tokens if not w.lower() in stop_words and w.isalpha() and len(w) > 1]
-            writer.writerow([stat['question_id'], title, filtered_sentence + topic_arr, difficulty])
+            synsets = []
+            # convert word to synsets
+            for word in filtered_sentence:
+                for syn in wn.synsets(word):
+                    synsets.append(syn.name())
+            # topic are not converted
+            for topic in topic_arr:
+                synsets.append(topic)
+            writer.writerow([stat['question_id'], title, synsets, difficulty])
         
