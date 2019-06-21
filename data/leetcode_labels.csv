@@ -1,0 +1,486 @@
+id,name,similar_questions
+1105,Uncrossed Lines,['Edit Distance']
+1104,Coloring A Border,['Island Perimeter']
+1046,Max Consecutive Ones III,"['Longest Substring with At Most K Distinct Characters', 'Longest Repeating Character Replacement', 'Max Consecutive Ones', 'Max Consecutive Ones II']"
+1045,Check If Word Is Valid After Substitutions,['Valid Parentheses']
+1044,Find Common Characters,['Intersection of Two Arrays II']
+1043,Grid Illumination,['N-Queens']
+1042,Minimum Cost to Merge Stones,['Burst Balloons']
+1040,Maximum Binary Tree II,['Maximum Binary Tree']
+1039,Find the Town Judge,['Find the Celebrity']
+1038,Number of Squareful Arrays,['Permutations II']
+1037,Minimum Number of K Consecutive Bit Flips,['Bulb Switcher']
+1036,Rotting Oranges,['Walls and Gates']
+1035,Cousins in Binary Tree,['Binary Tree Level Order Traversal']
+1034,Subarrays with K Different Integers,"['Longest Substring Without Repeating Characters', 'Longest Substring with At Most Two Distinct Characters', 'Longest Substring with At Most K Distinct Characters']"
+1033,Broken Calculator,['2 Keys Keyboard']
+1031,Add to Array-Form of Integer,"['Add Two Numbers', 'Plus One', 'Add Binary', 'Add Strings']"
+1030,Smallest String Starting From Leaf,"['Sum Root to Leaf Numbers', 'Binary Tree Paths']"
+1028,Interval List Intersections,"['Merge Intervals', 'Merge Sorted Array', 'Employee Free Time']"
+1025,Minimum Cost For Tickets,['Coin Change']
+1022,Unique Paths III,"['Sudoku Solver', 'Unique Paths II', 'Word Search II']"
+1021,Distribute Coins in Binary Tree,"['Sum of Distances in Tree', 'Binary Tree Cameras']"
+1020,Longest Turbulent Subarray,['Maximum Subarray']
+1019,Squares of a Sorted Array,"['Merge Sorted Array', 'Sort Transformed Array']"
+1018,Largest Perimeter Triangle,['Largest Triangle Area']
+1016,Subarray Sums Divisible by K,['Subarray Sum Equals K']
+1014,K Closest Points to Origin,"['Kth Largest Element in an Array', 'Top K Frequent Elements', 'Top K Frequent Words']"
+1013,Fibonacci Number,"['Climbing Stairs', 'Split Array into Fibonacci Sequence', 'Length of Longest Fibonacci Subsequence']"
+1008,Binary Tree Cameras,['Distribute Coins in Binary Tree']
+915,Generate Random Point in a Circle,['Random Point in Non-overlapping Rectangles']
+914,Random Point in Non-overlapping Rectangles,"['Random Pick with Weight', 'Generate Random Point in a Circle']"
+912,Random Pick with Weight,"['Random Pick Index', 'Random Pick with Blacklist', 'Random Point in Non-overlapping Rectangles']"
+907,Koko Eating Bananas,['Minimize Max Distance to Gas Station']
+905,Length of Longest Fibonacci Subsequence,['Fibonacci Number']
+894,Random Pick with Blacklist,"['Random Pick Index', 'Random Pick with Weight']"
+885,Exam Room,['Maximize Distance to Closest Person']
+884,K-Similar Strings,['Couples Holding Hands']
+882,Peak Index in a Mountain Array,['Find Peak Element']
+879,Maximize Distance to Closest Person,['Exam Room']
+872,Split Array into Fibonacci Sequence,"['Additive Number', 'Fibonacci Number']"
+866,Rectangle Overlap,['Rectangle Area']
+863,Sum of Distances in Tree,['Distribute Coins in Binary Tree']
+860,Design Circular Queue,['Design Circular Deque']
+859,Design Circular Deque,['Design Circular Queue']
+830,Largest Triangle Area,['Largest Perimeter Triangle']
+817,Design HashMap,['Design HashSet']
+816,Design HashSet,['Design HashMap']
+810,Valid Tic-Tac-Toe State,['Design Tic-Tac-Toe']
+809,Preimage Size of Factorial Zeroes Function,['Factorial Trailing Zeroes']
+808,Number of Matching Subsequences,['Is Subsequence']
+803,Cheapest Flights Within K Stops,['Maximum Vacation Days']
+802,K-th Smallest Prime Fraction,"['Kth Smallest Element in a Sorted Matrix', 'Kth Smallest Number in Multiplication Table', 'Find K-th Smallest Pair Distance']"
+800,Letter Case Permutation,"['Subsets', 'Brace Expansion']"
+799,Minimum Distance Between BST Nodes,['Binary Tree Inorder Traversal']
+792,Binary Search,['Search in a Sorted Array of Unknown Size']
+789,Kth Largest Element in a Stream,['Kth Largest Element in an Array']
+784,Insert into a Binary Search Tree,['Search in a Binary Search Tree']
+783,Search in a Binary Search Tree,"['Closest Binary Search Tree Value', 'Insert into a Binary Search Tree']"
+781,Basic Calculator IV,"['Parse Lisp Expression', 'Basic Calculator III']"
+780,Max Chunks To Make Sorted,['Max Chunks To Make Sorted II']
+779,Max Chunks To Make Sorted II,['Max Chunks To Make Sorted']
+778,Reorganize String,"['Rearrange String k Distance Apart', 'Task Scheduler']"
+777,Toeplitz Matrix,['Valid Word Square']
+776,N-ary Tree Postorder Traversal,"['Binary Tree Postorder Traversal', 'N-ary Tree Level Order Traversal', 'N-ary Tree Preorder Traversal']"
+775,N-ary Tree Preorder Traversal,"['Binary Tree Preorder Traversal', 'N-ary Tree Level Order Traversal', 'N-ary Tree Postorder Traversal']"
+774,Maximum Depth of N-ary Tree,['Maximum Depth of Binary Tree']
+770,Couples Holding Hands,"['First Missing Positive', 'Missing Number', 'K-Similar Strings']"
+769,Largest Plus Sign,['Maximal Square']
+768,Partition Labels,['Merge Intervals']
+767,Prime Number of Set Bits in Binary Representation,['Number of 1 Bits']
+766,Flatten a Multilevel Doubly Linked List,['Flatten Binary Tree to Linked List']
+764,N-ary Tree Level Order Traversal,"['Binary Tree Level Order Traversal', 'N-ary Tree Preorder Traversal', 'N-ary Tree Postorder Traversal']"
+763,Special Binary String,['Valid Parenthesis String']
+747,Min Cost Climbing Stairs,['Climbing Stairs']
+746,Prefix and Suffix Search,['Add and Search Word - Data structure design']
+741,Cherry Pickup,"['Minimum Path Sum', 'Dungeon Game']"
+740,Delete and Earn,['House Robber']
+739,Daily Temperatures,['Next Greater Element I']
+738,Monotone Increasing Digits,['Remove K Digits']
+736,Parse Lisp Expression,"['Ternary Expression Parser', 'Number of Atoms', 'Basic Calculator IV']"
+735,Asteroid Collision,['Can Place Flowers']
+733,Flood Fill,['Island Perimeter']
+732,My Calendar III,"['My Calendar I', 'My Calendar II']"
+731,My Calendar II,"['My Calendar I', 'My Calendar III']"
+730,Count Different Palindromic Subsequences,['Longest Palindromic Subsequence']
+729,My Calendar I,"['My Calendar II', 'My Calendar III']"
+728,Self Dividing Numbers,['Perfect Number']
+726,Number of Atoms,"['Decode String', 'Encode String with Shortest Length', 'Parse Lisp Expression']"
+725,Split Linked List in Parts,"['Rotate List', 'Odd Even Linked List']"
+724,Find Pivot Index,['Subarray Sum Equals K']
+722,Remove Comments,"['Mini Parser', 'Ternary Expression Parser']"
+721,Accounts Merge,"['Redundant Connection', 'Sentence Similarity', 'Sentence Similarity II']"
+720,Longest Word in Dictionary,"['Longest Word in Dictionary through Deleting', 'Implement Magic Dictionary']"
+719,Find K-th Smallest Pair Distance,"['Find K Pairs with Smallest Sums', 'Kth Smallest Element in a Sorted Matrix', 'Find K Closest Elements', 'Kth Smallest Number in Multiplication Table', 'K-th Smallest Prime Fraction']"
+718,Maximum Length of Repeated Subarray,['Minimum Size Subarray Sum']
+717,1-bit and 2-bit Characters,['Gray Code']
+715,Range Module,"['Merge Intervals', 'Insert Interval', 'Data Stream as Disjoint Intervals']"
+714,Best Time to Buy and Sell Stock with Transaction Fee,['Best Time to Buy and Sell Stock II']
+713,Subarray Product Less Than K,"['Maximum Product Subarray', 'Maximum Size Subarray Sum Equals k', 'Subarray Sum Equals K']"
+712,Minimum ASCII Delete Sum for Two Strings,"['Edit Distance', 'Longest Increasing Subsequence', 'Delete Operation for Two Strings']"
+699,Falling Squares,['The Skyline Problem']
+698,Partition to K Equal Sum Subsets,['Partition Equal Subset Sum']
+697,Degree of an Array,['Maximum Subarray']
+696,Count Binary Substrings,['Encode and Decode Strings']
+695,Max Area of Island,"['Number of Islands', 'Island Perimeter']"
+693,Binary Number with Alternating Bits,['Number of 1 Bits']
+692,Top K Frequent Words,"['Top K Frequent Elements', 'K Closest Points to Origin']"
+691,Stickers to Spell Word,['Ransom Note']
+690,Employee Importance,['Nested List Weight Sum']
+689,Maximum Sum of 3 Non-Overlapping Subarrays,['Best Time to Buy and Sell Stock III']
+688,Knight Probability in Chessboard,['Out of Boundary Paths']
+687,Longest Univalue Path,"['Binary Tree Maximum Path Sum', 'Count Univalue Subtrees', 'Path Sum III']"
+686,Repeated String Match,['Repeated Substring Pattern']
+685,Redundant Connection II,['Redundant Connection']
+684,Redundant Connection,"['Redundant Connection II', 'Accounts Merge']"
+680,Valid Palindrome II,['Valid Palindrome']
+678,Valid Parenthesis String,['Special Binary String']
+676,Implement Magic Dictionary,"['Implement Trie (Prefix Tree)', 'Longest Word in Dictionary']"
+674,Longest Continuous Increasing Subsequence,"['Number of Longest Increasing Subsequence', 'Minimum Window Subsequence']"
+673,Number of Longest Increasing Subsequence,"['Longest Increasing Subsequence', 'Longest Continuous Increasing Subsequence']"
+672,Bulb Switcher II,['Bulb Switcher']
+671,Second Minimum Node In a Binary Tree,['Kth Smallest Element in a BST']
+670,Maximum Swap,['Create Maximum Number']
+668,Kth Smallest Number in Multiplication Table,"['Kth Smallest Element in a Sorted Matrix', 'Find K-th Smallest Pair Distance', 'K-th Smallest Prime Fraction']"
+667,Beautiful Arrangement II,['Beautiful Arrangement']
+664,Strange Printer,['Remove Boxes']
+659,Split Array into Consecutive Subsequences,['Top K Frequent Elements']
+658,Find K Closest Elements,"['Guess Number Higher or Lower', 'Guess Number Higher or Lower II', 'Find K-th Smallest Pair Distance']"
+657,Robot Return to Origin,['Friend Circles']
+654,Maximum Binary Tree,['Maximum Binary Tree II']
+653,Two Sum IV - Input is a BST,"['Two Sum', 'Two Sum II - Input array is sorted', 'Two Sum III - Data structure design']"
+652,Find Duplicate Subtrees,"['Serialize and Deserialize Binary Tree', 'Serialize and Deserialize BST', 'Construct String from Binary Tree']"
+650,2 Keys Keyboard,"['4 Keys Keyboard', 'Broken Calculator']"
+649,Dota2 Senate,['Teemo Attacking']
+648,Replace Words,['Implement Trie (Prefix Tree)']
+647,Palindromic Substrings,"['Longest Palindromic Substring', 'Longest Palindromic Subsequence', 'Palindromic Substrings']"
+646,Maximum Length of Pair Chain,"['Longest Increasing Subsequence', 'Increasing Subsequences']"
+645,Set Mismatch,['Find the Duplicate Number']
+643,Maximum Average Subarray I,['Maximum Average Subarray II']
+640,Solve the Equation,['Fraction Addition and Subtraction']
+639,Decode Ways II,['Decode Ways']
+637,Average of Levels in Binary Tree,"['Binary Tree Level Order Traversal', 'Binary Tree Level Order Traversal II']"
+633,Sum of Square Numbers,['Valid Perfect Square']
+632,Smallest Range,['Minimum Window Substring']
+630,Course Schedule III,"['Course Schedule', 'Course Schedule II']"
+628,Maximum Product of Three Numbers,['Maximum Product Subarray']
+621,Task Scheduler,"['Rearrange String k Distance Apart', 'Reorganize String']"
+611,Valid Triangle Number,['3Sum Smaller']
+606,Construct String from Binary Tree,"['Construct Binary Tree from String', 'Find Duplicate Subtrees']"
+605,Can Place Flowers,"['Teemo Attacking', 'Asteroid Collision']"
+600,Non-negative Integers without Consecutive Ones,"['House Robber', 'House Robber II', 'Ones and Zeroes']"
+599,Minimum Index Sum of Two Lists,['Intersection of Two Linked Lists']
+598,Range Addition II,['Range Addition']
+592,Fraction Addition and Subtraction,['Solve the Equation']
+591,Tag Validator,['Add Bold Tag in String']
+583,Delete Operation for Two Strings,"['Edit Distance', 'Minimum ASCII Delete Sum for Two Strings']"
+576,Out of Boundary Paths,['Knight Probability in Chessboard']
+572,Subtree of Another Tree,"['Count Univalue Subtrees', 'Most Frequent Subtree Sum']"
+567,Permutation in String,"['Minimum Window Substring', 'Find All Anagrams in a String']"
+565,Array Nesting,"['Nested List Weight Sum', 'Flatten Nested List Iterator', 'Nested List Weight Sum II']"
+560,Subarray Sum Equals K,"['Two Sum', 'Continuous Subarray Sum', 'Subarray Product Less Than K', 'Find Pivot Index', 'Subarray Sums Divisible by K']"
+557,Reverse Words in a String III,['Reverse String II']
+556,Next Greater Element III,"['Next Greater Element I', 'Next Greater Element II']"
+552,Student Attendance Record II,['Student Attendance Record I']
+551,Student Attendance Record I,['Student Attendance Record II']
+547,Friend Circles,"['Number of Connected Components in an Undirected Graph', 'Robot Return to Origin', 'Sentence Similarity', 'Sentence Similarity II']"
+546,Remove Boxes,['Strange Printer']
+541,Reverse String II,"['Reverse String', 'Reverse Words in a String III']"
+532,K-diff Pairs in an Array,['Minimum Absolute Difference in BST']
+530,Minimum Absolute Difference in BST,['K-diff Pairs in an Array']
+526,Beautiful Arrangement,['Beautiful Arrangement II']
+525,Contiguous Array,['Maximum Size Subarray Sum Equals k']
+524,Longest Word in Dictionary through Deleting,['Longest Word in Dictionary']
+523,Continuous Subarray Sum,['Subarray Sum Equals K']
+522,Longest Uncommon Subsequence II,['Longest Uncommon Subsequence I ']
+521,Longest Uncommon Subsequence I ,['Longest Uncommon Subsequence II']
+516,Longest Palindromic Subsequence,"['Longest Palindromic Substring', 'Palindromic Substrings', 'Count Different Palindromic Subsequences']"
+508,Most Frequent Subtree Sum,['Subtree of Another Tree']
+507,Perfect Number,['Self Dividing Numbers']
+503,Next Greater Element II,"['Next Greater Element I', 'Next Greater Element III']"
+501,Find Mode in Binary Search Tree,['Validate Binary Search Tree']
+496,Next Greater Element I,"['Next Greater Element II', 'Next Greater Element III', 'Daily Temperatures']"
+495,Teemo Attacking,"['Merge Intervals', 'Can Place Flowers', 'Dota2 Senate']"
+494,Target Sum,['Expression Add Operators']
+493,Reverse Pairs,"['Count of Smaller Numbers After Self', 'Count of Range Sum']"
+491,Increasing Subsequences,['Maximum Length of Pair Chain']
+486,Predict the Winner,['Can I Win']
+485,Max Consecutive Ones,"['Max Consecutive Ones II', 'Max Consecutive Ones III']"
+480,Sliding Window Median,['Find Median from Data Stream']
+477,Total Hamming Distance,['Hamming Distance']
+474,Ones and Zeroes,['Non-negative Integers without Consecutive Ones']
+472,Concatenated Words,['Word Break II']
+468,Validate IP Address,['IP to CIDR']
+464,Can I Win,"['Flip Game II', 'Guess Number Higher or Lower II', 'Predict the Winner']"
+463,Island Perimeter,"['Max Area of Island', 'Flood Fill', 'Coloring A Border']"
+462,Minimum Moves to Equal Array Elements II,"['Best Meeting Point', 'Minimum Moves to Equal Array Elements']"
+461,Hamming Distance,"['Number of 1 Bits', 'Total Hamming Distance']"
+460,LFU Cache,"['LRU Cache', 'Design In-Memory File System']"
+459,Repeated Substring Pattern,"['Implement strStr()', 'Repeated String Match']"
+454,4Sum II,['4Sum']
+453,Minimum Moves to Equal Array Elements,['Minimum Moves to Equal Array Elements II']
+452,Minimum Number of Arrows to Burst Balloons,"['Meeting Rooms II', 'Non-overlapping Intervals']"
+451,Sort Characters By Frequency,"['Top K Frequent Elements', 'First Unique Character in a String']"
+450,Delete Node in a BST,['Split BST']
+449,Serialize and Deserialize BST,"['Serialize and Deserialize Binary Tree', 'Find Duplicate Subtrees', 'Serialize and Deserialize N-ary Tree']"
+448,Find All Numbers Disappeared in an Array,"['First Missing Positive', 'Find All Duplicates in an Array']"
+447,Number of Boomerangs,['Line Reflection']
+446,Arithmetic Slices II - Subsequence,['Arithmetic Slices']
+445,Add Two Numbers II,['Add Two Numbers']
+443,String Compression,"['Count and Say', 'Encode and Decode Strings', 'Design Compressed String Iterator']"
+442,Find All Duplicates in an Array,['Find All Numbers Disappeared in an Array']
+438,Find All Anagrams in a String,"['Valid Anagram', 'Permutation in String']"
+437,Path Sum III,"['Path Sum', 'Path Sum II', 'Path Sum IV', 'Longest Univalue Path']"
+436,Find Right Interval,['Data Stream as Disjoint Intervals']
+435,Non-overlapping Intervals,['Minimum Number of Arrows to Burst Balloons']
+433,Minimum Genetic Mutation,['Word Ladder']
+424,Longest Repeating Character Replacement,"['Longest Substring with At Most K Distinct Characters', 'Max Consecutive Ones III']"
+416,Partition Equal Subset Sum,['Partition to K Equal Sum Subsets']
+415,Add Strings,"['Add Two Numbers', 'Multiply Strings', 'Add to Array-Form of Integer']"
+414,Third Maximum Number,['Kth Largest Element in an Array']
+413,Arithmetic Slices,['Arithmetic Slices II - Subsequence']
+409,Longest Palindrome,['Palindrome Permutation']
+407,Trapping Rain Water II,['Trapping Rain Water']
+406,Queue Reconstruction by Height,['Count of Smaller Numbers After Self']
+402,Remove K Digits,"['Create Maximum Number', 'Monotone Increasing Digits']"
+401,Binary Watch,"['Letter Combinations of a Phone Number', 'Number of 1 Bits']"
+398,Random Pick Index,"['Linked List Random Node', 'Random Pick with Blacklist', 'Random Pick with Weight']"
+394,Decode String,"['Encode String with Shortest Length', 'Number of Atoms', 'Brace Expansion']"
+392,Is Subsequence,"['Number of Matching Subsequences', 'Shortest Way to Form String']"
+389,Find the Difference,['Single Number']
+387,First Unique Character in a String,['Sort Characters By Frequency']
+385,Mini Parser,"['Flatten Nested List Iterator', 'Ternary Expression Parser', 'Remove Comments']"
+383,Ransom Note,['Stickers to Spell Word']
+382,Linked List Random Node,['Random Pick Index']
+381,Insert Delete GetRandom O(1) - Duplicates allowed,['Insert Delete GetRandom O(1)']
+380,Insert Delete GetRandom O(1),['Insert Delete GetRandom O(1) - Duplicates allowed']
+378,Kth Smallest Element in a Sorted Matrix,"['Find K Pairs with Smallest Sums', 'Kth Smallest Number in Multiplication Table', 'Find K-th Smallest Pair Distance', 'K-th Smallest Prime Fraction']"
+377,Combination Sum IV,['Combination Sum']
+375,Guess Number Higher or Lower II,"['Flip Game II', 'Guess Number Higher or Lower', 'Can I Win', 'Find K Closest Elements']"
+374,Guess Number Higher or Lower,"['First Bad Version', 'Guess Number Higher or Lower II', 'Find K Closest Elements']"
+373,Find K Pairs with Smallest Sums,"['Kth Smallest Element in a Sorted Matrix', 'Find K-th Smallest Pair Distance']"
+372,Super Pow,"['Pow(x, n)']"
+371,Sum of Two Integers,['Add Two Numbers']
+367,Valid Perfect Square,"['Sqrt(x)', 'Sum of Square Numbers']"
+354,Russian Doll Envelopes,['Longest Increasing Subsequence']
+352,Data Stream as Disjoint Intervals,"['Summary Ranges', 'Find Right Interval', 'Range Module']"
+350,Intersection of Two Arrays II,"['Intersection of Two Arrays', 'Find Common Characters']"
+349,Intersection of Two Arrays,['Intersection of Two Arrays II']
+347,Top K Frequent Elements,"['Word Frequency', 'Kth Largest Element in an Array', 'Sort Characters By Frequency', 'Split Array into Consecutive Subsequences', 'Top K Frequent Words', 'K Closest Points to Origin']"
+345,Reverse Vowels of a String,['Reverse String']
+344,Reverse String,"['Reverse Vowels of a String', 'Reverse String II']"
+342,Power of Four,"['Power of Two', 'Power of Three']"
+341,Flatten Nested List Iterator,"['Flatten 2D Vector', 'Zigzag Iterator', 'Mini Parser', 'Array Nesting']"
+338,Counting Bits,['Number of 1 Bits']
+337,House Robber III,"['House Robber', 'House Robber II']"
+336,Palindrome Pairs,"['Longest Palindromic Substring', 'Shortest Palindrome']"
+334,Increasing Triplet Subsequence,['Longest Increasing Subsequence']
+328,Odd Even Linked List,['Split Linked List in Parts']
+327,Count of Range Sum,"['Count of Smaller Numbers After Self', 'Reverse Pairs']"
+326,Power of Three,"['Power of Two', 'Power of Four']"
+324,Wiggle Sort II,"['Sort Colors', 'Kth Largest Element in an Array', 'Wiggle Sort']"
+322,Coin Change,['Minimum Cost For Tickets']
+321,Create Maximum Number,"['Remove K Digits', 'Maximum Swap']"
+319,Bulb Switcher,"['Bulb Switcher II', 'Minimum Number of K Consecutive Bit Flips']"
+315,Count of Smaller Numbers After Self,"['Count of Range Sum', 'Queue Reconstruction by Height', 'Reverse Pairs']"
+313,Super Ugly Number,['Ugly Number II']
+312,Burst Balloons,['Minimum Cost to Merge Stones']
+310,Minimum Height Trees,"['Course Schedule', 'Course Schedule II']"
+309,Best Time to Buy and Sell Stock with Cooldown,"['Best Time to Buy and Sell Stock', 'Best Time to Buy and Sell Stock II']"
+307,Range Sum Query - Mutable,"['Range Sum Query - Immutable', 'Range Sum Query 2D - Mutable']"
+306,Additive Number,['Split Array into Fibonacci Sequence']
+304,Range Sum Query 2D - Immutable,"['Range Sum Query - Immutable', 'Range Sum Query 2D - Mutable']"
+303,Range Sum Query - Immutable,"['Range Sum Query 2D - Immutable', 'Range Sum Query - Mutable', 'Maximum Size Subarray Sum Equals k']"
+301,Remove Invalid Parentheses,['Valid Parentheses']
+300,Longest Increasing Subsequence,"['Increasing Triplet Subsequence', 'Russian Doll Envelopes', 'Maximum Length of Pair Chain', 'Number of Longest Increasing Subsequence', 'Minimum ASCII Delete Sum for Two Strings']"
+297,Serialize and Deserialize Binary Tree,"['Encode and Decode Strings', 'Serialize and Deserialize BST', 'Find Duplicate Subtrees', 'Serialize and Deserialize N-ary Tree']"
+295,Find Median from Data Stream,['Sliding Window Median']
+292,Nim Game,['Flip Game II']
+290,Word Pattern,"['Isomorphic Strings', 'Word Pattern II']"
+289,Game of Life,['Set Matrix Zeroes']
+287,Find the Duplicate Number,"['First Missing Positive', 'Single Number', 'Linked List Cycle II', 'Missing Number', 'Set Mismatch']"
+284,Peeking Iterator,"['Binary Search Tree Iterator', 'Flatten 2D Vector', 'Zigzag Iterator']"
+283,Move Zeroes,['Remove Element']
+282,Expression Add Operators,"['Evaluate Reverse Polish Notation', 'Basic Calculator', 'Basic Calculator II', 'Different Ways to Add Parentheses', 'Target Sum']"
+279,Perfect Squares,"['Count Primes', 'Ugly Number II']"
+278,First Bad Version,"['Find First and Last Position of Element in Sorted Array', 'Search Insert Position', 'Guess Number Higher or Lower']"
+275,H-Index II,['H-Index']
+274,H-Index,['H-Index II']
+273,Integer to English Words,['Integer to Roman']
+268,Missing Number,"['First Missing Positive', 'Single Number', 'Find the Duplicate Number', 'Couples Holding Hands']"
+264,Ugly Number II,"['Merge k Sorted Lists', 'Count Primes', 'Ugly Number', 'Perfect Squares', 'Super Ugly Number']"
+263,Ugly Number,"['Happy Number', 'Count Primes', 'Ugly Number II']"
+260,Single Number III,"['Single Number', 'Single Number II']"
+258,Add Digits,"['Happy Number', 'Sum of Digits in the Minimum Number']"
+257,Binary Tree Paths,"['Path Sum II', 'Smallest String Starting From Leaf']"
+242,Valid Anagram,"['Group Anagrams', 'Palindrome Permutation', 'Find All Anagrams in a String']"
+241,Different Ways to Add Parentheses,"['Unique Binary Search Trees II', 'Basic Calculator', 'Expression Add Operators']"
+240,Search a 2D Matrix II,['Search a 2D Matrix']
+239,Sliding Window Maximum,"['Minimum Window Substring', 'Min Stack', 'Longest Substring with At Most Two Distinct Characters', 'Paint House II']"
+238,Product of Array Except Self,"['Trapping Rain Water', 'Maximum Product Subarray', 'Paint House II']"
+237,Delete Node in a Linked List,['Remove Linked List Elements']
+236,Lowest Common Ancestor of a Binary Tree,['Lowest Common Ancestor of a Binary Search Tree']
+235,Lowest Common Ancestor of a Binary Search Tree,['Lowest Common Ancestor of a Binary Tree']
+234,Palindrome Linked List,"['Palindrome Number', 'Valid Palindrome', 'Reverse Linked List']"
+233,Number of Digit One,"['Factorial Trailing Zeroes', 'Digit Count in Range']"
+232,Implement Queue using Stacks,['Implement Stack using Queues']
+231,Power of Two,"['Number of 1 Bits', 'Power of Three', 'Power of Four']"
+230,Kth Smallest Element in a BST,"['Binary Tree Inorder Traversal', 'Second Minimum Node In a Binary Tree']"
+229,Majority Element II,['Majority Element']
+228,Summary Ranges,"['Missing Ranges', 'Data Stream as Disjoint Intervals']"
+227,Basic Calculator II,"['Basic Calculator', 'Expression Add Operators', 'Basic Calculator III']"
+225,Implement Stack using Queues,['Implement Queue using Stacks']
+224,Basic Calculator,"['Evaluate Reverse Polish Notation', 'Basic Calculator II', 'Different Ways to Add Parentheses', 'Expression Add Operators', 'Basic Calculator III']"
+223,Rectangle Area,['Rectangle Overlap']
+222,Count Complete Tree Nodes,['Closest Binary Search Tree Value']
+221,Maximal Square,"['Maximal Rectangle', 'Largest Plus Sign']"
+220,Contains Duplicate III,"['Contains Duplicate', 'Contains Duplicate II']"
+219,Contains Duplicate II,"['Contains Duplicate', 'Contains Duplicate III']"
+218,The Skyline Problem,['Falling Squares']
+217,Contains Duplicate,"['Contains Duplicate II', 'Contains Duplicate III']"
+216,Combination Sum III,['Combination Sum']
+215,Kth Largest Element in an Array,"['Wiggle Sort II', 'Top K Frequent Elements', 'Third Maximum Number', 'Kth Largest Element in a Stream', 'K Closest Points to Origin']"
+214,Shortest Palindrome,"['Longest Palindromic Substring', 'Implement strStr()', 'Palindrome Pairs']"
+213,House Robber II,"['House Robber', 'Paint House', 'Paint Fence', 'House Robber III', 'Non-negative Integers without Consecutive Ones', 'Coin Path']"
+212,Word Search II,"['Word Search', 'Unique Paths III']"
+211,Add and Search Word - Data structure design,"['Implement Trie (Prefix Tree)', 'Prefix and Suffix Search']"
+210,Course Schedule II,"['Course Schedule', 'Alien Dictionary', 'Minimum Height Trees', 'Sequence Reconstruction', 'Course Schedule III']"
+209,Minimum Size Subarray Sum,"['Minimum Window Substring', 'Maximum Size Subarray Sum Equals k', 'Maximum Length of Repeated Subarray']"
+208,Implement Trie (Prefix Tree),"['Add and Search Word - Data structure design', 'Design Search Autocomplete System', 'Replace Words', 'Implement Magic Dictionary']"
+207,Course Schedule,"['Course Schedule II', 'Graph Valid Tree', 'Minimum Height Trees', 'Course Schedule III']"
+206,Reverse Linked List,"['Reverse Linked List II', 'Binary Tree Upside Down', 'Palindrome Linked List']"
+205,Isomorphic Strings,['Word Pattern']
+204,Count Primes,"['Ugly Number', 'Ugly Number II', 'Perfect Squares']"
+203,Remove Linked List Elements,"['Remove Element', 'Delete Node in a Linked List']"
+202,Happy Number,"['Linked List Cycle', 'Add Digits', 'Ugly Number']"
+200,Number of Islands,"['Surrounded Regions', 'Walls and Gates', 'Number of Islands II', 'Number of Connected Components in an Undirected Graph', 'Number of Distinct Islands', 'Max Area of Island']"
+199,Binary Tree Right Side View,"['Populating Next Right Pointers in Each Node', 'Boundary of Binary Tree']"
+198,House Robber,"['Maximum Product Subarray', 'House Robber II', 'Paint House', 'Paint Fence', 'House Robber III', 'Non-negative Integers without Consecutive Ones', 'Coin Path', 'Delete and Earn']"
+191,Number of 1 Bits,"['Reverse Bits', 'Power of Two', 'Counting Bits', 'Binary Watch', 'Hamming Distance', 'Binary Number with Alternating Bits', 'Prime Number of Set Bits in Binary Representation']"
+190,Reverse Bits,"['Reverse Integer', 'Number of 1 Bits']"
+189,Rotate Array,"['Rotate List', 'Reverse Words in a String II']"
+188,Best Time to Buy and Sell Stock IV,"['Best Time to Buy and Sell Stock', 'Best Time to Buy and Sell Stock II', 'Best Time to Buy and Sell Stock III']"
+174,Dungeon Game,"['Unique Paths', 'Minimum Path Sum', 'Cherry Pickup']"
+173,Binary Search Tree Iterator,"['Binary Tree Inorder Traversal', 'Flatten 2D Vector', 'Zigzag Iterator', 'Peeking Iterator', 'Inorder Successor in BST']"
+172,Factorial Trailing Zeroes,"['Number of Digit One', 'Preimage Size of Factorial Zeroes Function']"
+171,Excel Sheet Column Number,['Excel Sheet Column Title']
+169,Majority Element,['Majority Element II']
+168,Excel Sheet Column Title,['Excel Sheet Column Number']
+167,Two Sum II - Input array is sorted,"['Two Sum', 'Two Sum IV - Input is a BST']"
+162,Find Peak Element,['Peak Index in a Mountain Array']
+160,Intersection of Two Linked Lists,['Minimum Index Sum of Two Lists']
+155,Min Stack,"['Sliding Window Maximum', 'Max Stack']"
+154,Find Minimum in Rotated Sorted Array II,['Find Minimum in Rotated Sorted Array']
+153,Find Minimum in Rotated Sorted Array,"['Search in Rotated Sorted Array', 'Find Minimum in Rotated Sorted Array II']"
+152,Maximum Product Subarray,"['Maximum Subarray', 'House Robber', 'Product of Array Except Self', 'Maximum Product of Three Numbers', 'Subarray Product Less Than K']"
+151,Reverse Words in a String,['Reverse Words in a String II']
+150,Evaluate Reverse Polish Notation,"['Basic Calculator', 'Expression Add Operators']"
+149,Max Points on a Line,['Line Reflection']
+148,Sort List,"['Merge Two Sorted Lists', 'Sort Colors', 'Insertion Sort List']"
+147,Insertion Sort List,"['Sort List', 'Insert into a Cyclic Sorted List']"
+146,LRU Cache,"['LFU Cache', 'Design In-Memory File System', 'Design Compressed String Iterator']"
+145,Binary Tree Postorder Traversal,"['Binary Tree Inorder Traversal', 'N-ary Tree Postorder Traversal']"
+144,Binary Tree Preorder Traversal,"['Binary Tree Inorder Traversal', 'Verify Preorder Sequence in Binary Search Tree', 'N-ary Tree Preorder Traversal']"
+142,Linked List Cycle II,"['Linked List Cycle', 'Find the Duplicate Number']"
+141,Linked List Cycle,"['Linked List Cycle II', 'Happy Number']"
+140,Word Break II,"['Word Break', 'Concatenated Words']"
+139,Word Break,['Word Break II']
+138,Copy List with Random Pointer,['Clone Graph']
+137,Single Number II,"['Single Number', 'Single Number III']"
+136,Single Number,"['Single Number II', 'Single Number III', 'Missing Number', 'Find the Duplicate Number', 'Find the Difference']"
+133,Clone Graph,['Copy List with Random Pointer']
+132,Palindrome Partitioning II,['Palindrome Partitioning']
+131,Palindrome Partitioning,['Palindrome Partitioning II']
+130,Surrounded Regions,"['Number of Islands', 'Walls and Gates']"
+129,Sum Root to Leaf Numbers,"['Path Sum', 'Binary Tree Maximum Path Sum', 'Smallest String Starting From Leaf']"
+128,Longest Consecutive Sequence,['Binary Tree Longest Consecutive Sequence']
+127,Word Ladder,"['Word Ladder II', 'Minimum Genetic Mutation']"
+126,Word Ladder II,['Word Ladder']
+125,Valid Palindrome,"['Palindrome Linked List', 'Valid Palindrome II']"
+124,Binary Tree Maximum Path Sum,"['Path Sum', 'Sum Root to Leaf Numbers', 'Path Sum IV', 'Longest Univalue Path']"
+123,Best Time to Buy and Sell Stock III,"['Best Time to Buy and Sell Stock', 'Best Time to Buy and Sell Stock II', 'Best Time to Buy and Sell Stock IV', 'Maximum Sum of 3 Non-Overlapping Subarrays']"
+122,Best Time to Buy and Sell Stock II,"['Best Time to Buy and Sell Stock', 'Best Time to Buy and Sell Stock III', 'Best Time to Buy and Sell Stock IV', 'Best Time to Buy and Sell Stock with Cooldown', 'Best Time to Buy and Sell Stock with Transaction Fee']"
+121,Best Time to Buy and Sell Stock,"['Maximum Subarray', 'Best Time to Buy and Sell Stock II', 'Best Time to Buy and Sell Stock III', 'Best Time to Buy and Sell Stock IV', 'Best Time to Buy and Sell Stock with Cooldown']"
+119,Pascal's Triangle II,"[""Pascal's Triangle""]"
+118,Pascal's Triangle,"[""Pascal's Triangle II""]"
+117,Populating Next Right Pointers in Each Node II,['Populating Next Right Pointers in Each Node']
+116,Populating Next Right Pointers in Each Node,"['Populating Next Right Pointers in Each Node II', 'Binary Tree Right Side View']"
+114,Flatten Binary Tree to Linked List,['Flatten a Multilevel Doubly Linked List']
+113,Path Sum II,"['Path Sum', 'Binary Tree Paths', 'Path Sum III', 'Path Sum IV']"
+112,Path Sum,"['Path Sum II', 'Binary Tree Maximum Path Sum', 'Sum Root to Leaf Numbers', 'Path Sum III', 'Path Sum IV']"
+111,Minimum Depth of Binary Tree,"['Binary Tree Level Order Traversal', 'Maximum Depth of Binary Tree']"
+110,Balanced Binary Tree,['Maximum Depth of Binary Tree']
+109,Convert Sorted List to Binary Search Tree,['Convert Sorted Array to Binary Search Tree']
+108,Convert Sorted Array to Binary Search Tree,['Convert Sorted List to Binary Search Tree']
+107,Binary Tree Level Order Traversal II,"['Binary Tree Level Order Traversal', 'Average of Levels in Binary Tree']"
+106,Construct Binary Tree from Inorder and Postorder Traversal,['Construct Binary Tree from Preorder and Inorder Traversal']
+105,Construct Binary Tree from Preorder and Inorder Traversal,['Construct Binary Tree from Inorder and Postorder Traversal']
+104,Maximum Depth of Binary Tree,"['Balanced Binary Tree', 'Minimum Depth of Binary Tree', 'Maximum Depth of N-ary Tree']"
+103,Binary Tree Zigzag Level Order Traversal,['Binary Tree Level Order Traversal']
+102,Binary Tree Level Order Traversal,"['Binary Tree Zigzag Level Order Traversal', 'Binary Tree Level Order Traversal II', 'Minimum Depth of Binary Tree', 'Binary Tree Vertical Order Traversal', 'Average of Levels in Binary Tree', 'N-ary Tree Level Order Traversal', 'Cousins in Binary Tree']"
+98,Validate Binary Search Tree,"['Binary Tree Inorder Traversal', 'Find Mode in Binary Search Tree']"
+96,Unique Binary Search Trees,['Unique Binary Search Trees II']
+95,Unique Binary Search Trees II,"['Unique Binary Search Trees', 'Different Ways to Add Parentheses']"
+94,Binary Tree Inorder Traversal,"['Validate Binary Search Tree', 'Binary Tree Preorder Traversal', 'Binary Tree Postorder Traversal', 'Binary Search Tree Iterator', 'Kth Smallest Element in a BST', 'Closest Binary Search Tree Value II', 'Inorder Successor in BST', 'Convert Binary Search Tree to Sorted Doubly Linked List', 'Minimum Distance Between BST Nodes']"
+93,Restore IP Addresses,['IP to CIDR']
+92,Reverse Linked List II,['Reverse Linked List']
+91,Decode Ways,['Decode Ways II']
+90,Subsets II,['Subsets']
+89,Gray Code,['1-bit and 2-bit Characters']
+88,Merge Sorted Array,"['Merge Two Sorted Lists', 'Squares of a Sorted Array', 'Interval List Intersections']"
+85,Maximal Rectangle,"['Largest Rectangle in Histogram', 'Maximal Square']"
+84,Largest Rectangle in Histogram,['Maximal Rectangle']
+83,Remove Duplicates from Sorted List,['Remove Duplicates from Sorted List II']
+82,Remove Duplicates from Sorted List II,['Remove Duplicates from Sorted List']
+81,Search in Rotated Sorted Array II,['Search in Rotated Sorted Array']
+80,Remove Duplicates from Sorted Array II,['Remove Duplicates from Sorted Array']
+79,Word Search,['Word Search II']
+78,Subsets,"['Subsets II', 'Generalized Abbreviation', 'Letter Case Permutation']"
+77,Combinations,"['Combination Sum', 'Permutations']"
+76,Minimum Window Substring,"['Substring with Concatenation of All Words', 'Minimum Size Subarray Sum', 'Sliding Window Maximum', 'Permutation in String', 'Smallest Range', 'Minimum Window Subsequence']"
+75,Sort Colors,"['Sort List', 'Wiggle Sort', 'Wiggle Sort II']"
+74,Search a 2D Matrix,['Search a 2D Matrix II']
+73,Set Matrix Zeroes,['Game of Life']
+72,Edit Distance,"['One Edit Distance', 'Delete Operation for Two Strings', 'Minimum ASCII Delete Sum for Two Strings', 'Uncrossed Lines']"
+70,Climbing Stairs,"['Min Cost Climbing Stairs', 'Fibonacci Number']"
+69,Sqrt(x),"['Pow(x, n)', 'Valid Perfect Square']"
+67,Add Binary,"['Add Two Numbers', 'Multiply Strings', 'Plus One', 'Add to Array-Form of Integer']"
+66,Plus One,"['Multiply Strings', 'Add Binary', 'Plus One Linked List', 'Add to Array-Form of Integer']"
+65,Valid Number,['String to Integer (atoi)']
+64,Minimum Path Sum,"['Unique Paths', 'Dungeon Game', 'Cherry Pickup']"
+63,Unique Paths II,"['Unique Paths', 'Unique Paths III']"
+62,Unique Paths,"['Unique Paths II', 'Minimum Path Sum', 'Dungeon Game']"
+61,Rotate List,"['Rotate Array', 'Split Linked List in Parts']"
+60,Permutation Sequence,"['Next Permutation', 'Permutations']"
+59,Spiral Matrix II,['Spiral Matrix']
+57,Insert Interval,"['Merge Intervals', 'Range Module']"
+56,Merge Intervals,"['Insert Interval', 'Meeting Rooms', 'Meeting Rooms II', 'Teemo Attacking', 'Add Bold Tag in String', 'Range Module', 'Employee Free Time', 'Partition Labels', 'Interval List Intersections']"
+55,Jump Game,['Jump Game II']
+54,Spiral Matrix,['Spiral Matrix II']
+53,Maximum Subarray,"['Best Time to Buy and Sell Stock', 'Maximum Product Subarray', 'Degree of an Array', 'Longest Turbulent Subarray']"
+52,N-Queens II,['N-Queens']
+51,N-Queens,"['N-Queens II', 'Grid Illumination']"
+50,"Pow(x, n)","['Sqrt(x)', 'Super Pow']"
+49,Group Anagrams,"['Valid Anagram', 'Group Shifted Strings']"
+47,Permutations II,"['Next Permutation', 'Permutations', 'Palindrome Permutation II', 'Number of Squareful Arrays']"
+46,Permutations,"['Next Permutation', 'Permutations II', 'Permutation Sequence', 'Combinations']"
+45,Jump Game II,['Jump Game']
+44,Wildcard Matching,['Regular Expression Matching']
+43,Multiply Strings,"['Add Two Numbers', 'Plus One', 'Add Binary', 'Add Strings']"
+42,Trapping Rain Water,"['Container With Most Water', 'Product of Array Except Self', 'Trapping Rain Water II', 'Pour Water']"
+41,First Missing Positive,"['Missing Number', 'Find the Duplicate Number', 'Find All Numbers Disappeared in an Array', 'Couples Holding Hands']"
+40,Combination Sum II,['Combination Sum']
+39,Combination Sum,"['Letter Combinations of a Phone Number', 'Combination Sum II', 'Combinations', 'Combination Sum III', 'Factor Combinations', 'Combination Sum IV']"
+38,Count and Say,"['Encode and Decode Strings', 'String Compression']"
+37,Sudoku Solver,"['Valid Sudoku', 'Unique Paths III']"
+36,Valid Sudoku,['Sudoku Solver']
+35,Search Insert Position,['First Bad Version']
+34,Find First and Last Position of Element in Sorted Array,['First Bad Version']
+33,Search in Rotated Sorted Array,"['Search in Rotated Sorted Array II', 'Find Minimum in Rotated Sorted Array']"
+32,Longest Valid Parentheses,['Valid Parentheses']
+31,Next Permutation,"['Permutations', 'Permutations II', 'Permutation Sequence', 'Palindrome Permutation II']"
+30,Substring with Concatenation of All Words,['Minimum Window Substring']
+28,Implement strStr(),"['Shortest Palindrome', 'Repeated Substring Pattern']"
+27,Remove Element,"['Remove Duplicates from Sorted Array', 'Remove Linked List Elements', 'Move Zeroes']"
+26,Remove Duplicates from Sorted Array,"['Remove Element', 'Remove Duplicates from Sorted Array II']"
+25,Reverse Nodes in k-Group,['Swap Nodes in Pairs']
+24,Swap Nodes in Pairs,['Reverse Nodes in k-Group']
+23,Merge k Sorted Lists,"['Merge Two Sorted Lists', 'Ugly Number II']"
+22,Generate Parentheses,"['Letter Combinations of a Phone Number', 'Valid Parentheses']"
+21,Merge Two Sorted Lists,"['Merge k Sorted Lists', 'Merge Sorted Array', 'Sort List', 'Shortest Word Distance II']"
+20,Valid Parentheses,"['Generate Parentheses', 'Longest Valid Parentheses', 'Remove Invalid Parentheses', 'Check If Word Is Valid After Substitutions']"
+18,4Sum,"['Two Sum', '3Sum', '4Sum II']"
+17,Letter Combinations of a Phone Number,"['Generate Parentheses', 'Combination Sum', 'Binary Watch']"
+16,3Sum Closest,"['3Sum', '3Sum Smaller']"
+15,3Sum,"['Two Sum', '3Sum Closest', '4Sum', '3Sum Smaller']"
+13,Roman to Integer,['Integer to Roman']
+12,Integer to Roman,"['Roman to Integer', 'Integer to English Words']"
+11,Container With Most Water,['Trapping Rain Water']
+10,Regular Expression Matching,['Wildcard Matching']
+9,Palindrome Number,['Palindrome Linked List']
+8,String to Integer (atoi),"['Reverse Integer', 'Valid Number']"
+7,Reverse Integer,"['String to Integer (atoi)', 'Reverse Bits']"
+5,Longest Palindromic Substring,"['Shortest Palindrome', 'Palindrome Permutation', 'Palindrome Pairs', 'Longest Palindromic Subsequence', 'Palindromic Substrings']"
+3,Longest Substring Without Repeating Characters,"['Longest Substring with At Most Two Distinct Characters', 'Longest Substring with At Most K Distinct Characters', 'Subarrays with K Different Integers']"
+2,Add Two Numbers,"['Multiply Strings', 'Add Binary', 'Sum of Two Integers', 'Add Strings', 'Add Two Numbers II', 'Add to Array-Form of Integer']"
+1,Two Sum,"['3Sum', '4Sum', 'Two Sum II - Input array is sorted', 'Two Sum III - Data structure design', 'Subarray Sum Equals K', 'Two Sum IV - Input is a BST']"
