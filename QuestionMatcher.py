@@ -49,11 +49,11 @@ class QuestionMatcher(object):
         similarity = np.dot(q1_vec, q2_vec) / (np.linalg.norm(q1_vec) * np.linalg.norm(q2_vec))
         return 0 if np.isnan(np.sum(similarity)) else similarity
 
+
     def get_recommendations(self, question, others, threshold = 0):
-        
         recommendations = []
         for q in others: # others is a list of tuples (question_name, question_content)
-            similarity = self.get_similarity(question, q)
+            similarity = self.get_similarity(question, q[1])
             if similarity > threshold:
                 recommendations.append({
                     'name': q[0],
